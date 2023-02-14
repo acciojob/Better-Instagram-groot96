@@ -1,11 +1,11 @@
 //your code here
-const image = document.querySelector('.image');
+// const image = document.querySelector('.image');
 
-image.addEventListener('dragstart', dragStart);
+// image.addEventListener('dragstart', dragStart);
 
-function dragStart(e) {
-    console.log('drag starts');
-}
+// function dragStart(e) {
+//     console.log('drag starts');
+// }
 
 
 let dragindex=0;
